@@ -1,16 +1,52 @@
-## Hi there 👋
+#Hi,I'm Kalu Peter.
+## About Me.
+I am a Cybersecurity Student at NNIT Port Harcourt. passionate about offensive and defensive Cybersecurity.
+I enjoy building pratical cybersecurity projects that demostrate real-world skills in:
+- Penetration Testing
+- Log Analysis
+- Digital Forensics
+- OSINT
+- THreat Hunting
+- Social Engineering
+- vaulnerability Accessment
+- Governance Risk and Compliance
+ 
+ ## Project
+ | Project | Description | Repository |
+ | OSINT Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
+ | Log Analysis | Analyzed IIS and windows Event Logs to identify attacks | Coming soon |
+ 
+ ## Skills
+ ### Operating systems
+ - Windows
+ - Linux
+ 
+ ### Networking
+ - TCP/IP
+ - DNS
+ - HTTP
+ - FTP
+ - SSH
+ 
+ ### Cybersecurity Tools
+ - Nmap
+ - Wireshark
+ - Burp Suite
+ - Splunk
+ - Metasploit
+ - Git
+ - GitHub
 
-<!--
-**rexvoltage/rexvoltage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Certifications
+- ISC2 CC
+- CompTIA security+ (In Progress)
 
-Here are some ideas to get you started:
+  ## Education
+  NNIT Port Harcourt :
+  Cybersecurity Program
+Tonye Infosec: Mentorship and Intership Program
+fed poly nek owerri.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Contact
+  Email: kingrockkip@gmail.com
+  
